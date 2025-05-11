@@ -14,7 +14,7 @@ B = 6.
 
 x_0 = 0
 x_max = 10
-num = 100
+num = 1000
 # 划分网格
 x = np.linspace(x_0,x_max,num)
 inter = (x[1:]-x[:-1])
